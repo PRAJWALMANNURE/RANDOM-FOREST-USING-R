@@ -1,2 +1,2 @@
 # RANDOM-FOREST-USING-R
-worked on usecases of random forest
+worked on use cases of random forest
